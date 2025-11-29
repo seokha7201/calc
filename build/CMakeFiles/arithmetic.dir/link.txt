@@ -1,0 +1,1 @@
+/usr/bin/gcc -fPIC -g -shared -Wl,-soname,libarithmetic.so -o libarithmetic.so CMakeFiles/arithmetic.dir/add.c.o CMakeFiles/arithmetic.dir/sub.c.o CMakeFiles/arithmetic.dir/mul.c.o CMakeFiles/arithmetic.dir/dur.c.o   -L/home/yeongs/autose/T6/new/prog  -L/home/yeongs/autose/T6/new/PUBLIC  -L/home/yeongs/autose/T6/new/. 

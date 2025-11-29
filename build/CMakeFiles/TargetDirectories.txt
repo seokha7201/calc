@@ -1,0 +1,4 @@
+/home/yeongs/autose/T6/new/build/CMakeFiles/arithmetic.dir
+/home/yeongs/autose/T6/new/build/CMakeFiles/prog.dir
+/home/yeongs/autose/T6/new/build/CMakeFiles/edit_cache.dir
+/home/yeongs/autose/T6/new/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/yeongs/autose/T6/new/build",
+  "command": "/usr/bin/gcc -Darithmetic_EXPORTS -I/home/yeongs/autose/T6/new/inc -g -fPIC -Wall -o CMakeFiles/arithmetic.dir/add.c.o -c /home/yeongs/autose/T6/new/add.c",
+  "file": "/home/yeongs/autose/T6/new/add.c",
+  "output": "CMakeFiles/arithmetic.dir/add.c.o"
+},
+{
+  "directory": "/home/yeongs/autose/T6/new/build",
+  "command": "/usr/bin/gcc -Darithmetic_EXPORTS -I/home/yeongs/autose/T6/new/inc -g -fPIC -Wall -o CMakeFiles/arithmetic.dir/sub.c.o -c /home/yeongs/autose/T6/new/sub.c",
+  "file": "/home/yeongs/autose/T6/new/sub.c",
+  "output": "CMakeFiles/arithmetic.dir/sub.c.o"
+},
+{
+  "directory": "/home/yeongs/autose/T6/new/build",
+  "command": "/usr/bin/gcc -Darithmetic_EXPORTS -I/home/yeongs/autose/T6/new/inc -g -fPIC -Wall -o CMakeFiles/arithmetic.dir/mul.c.o -c /home/yeongs/autose/T6/new/mul.c",
+  "file": "/home/yeongs/autose/T6/new/mul.c",
+  "output": "CMakeFiles/arithmetic.dir/mul.c.o"
+},
+{
+  "directory": "/home/yeongs/autose/T6/new/build",
+  "command": "/usr/bin/gcc -Darithmetic_EXPORTS -I/home/yeongs/autose/T6/new/inc -g -fPIC -Wall -o CMakeFiles/arithmetic.dir/dur.c.o -c /home/yeongs/autose/T6/new/dur.c",
+  "file": "/home/yeongs/autose/T6/new/dur.c",
+  "output": "CMakeFiles/arithmetic.dir/dur.c.o"
+},
+{
+  "directory": "/home/yeongs/autose/T6/new/build",
+  "command": "/usr/bin/gcc  -I/home/yeongs/autose/T6/new/inc -g -Wall -o CMakeFiles/prog.dir/cal_main.c.o -c /home/yeongs/autose/T6/new/cal_main.c",
+  "file": "/home/yeongs/autose/T6/new/cal_main.c",
+  "output": "CMakeFiles/prog.dir/cal_main.c.o"
+}
+]

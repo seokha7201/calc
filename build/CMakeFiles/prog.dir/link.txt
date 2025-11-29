@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/prog.dir/cal_main.c.o -o prog   -L/home/yeongs/autose/T6/new/prog  -L/home/yeongs/autose/T6/new/PUBLIC  -L/home/yeongs/autose/T6/new/.  -Wl,-rpath,/home/yeongs/autose/T6/new/prog:/home/yeongs/autose/T6/new/PUBLIC:/home/yeongs/autose/T6/new/.:/home/yeongs/autose/T6/new/build libarithmetic.so 
